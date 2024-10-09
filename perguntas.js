@@ -102,8 +102,8 @@ criaCartao(
 
 criaCartao(
     'Inglês',
-    ' O que significa "I wonder..."?',
-    'Eu gostaria...'
+    ' O que significa "I wonder"?',
+    'Eu gostaria'
 )
 
 criaCartao(
