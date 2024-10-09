@@ -108,7 +108,7 @@ criaCartao(
 
 criaCartao(
     'Química',
-    'Qual é a distribuição eletrônica do Carbono.?',
+    'Qual é a distribuição eletrônica do Carbonouyjuj?',
     'K=2, L=4'
 )
 
