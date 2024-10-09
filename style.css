@@ -1,23 +1,23 @@
-:root{
---fundo: #7FFFD4;
---cartao-frente: #66CDAA;
---cartao-verso: #20B2AA;
---destaque: #800000;
---preto: #000000;
---branco: #ffffff;
+:root {
+    --fundo: #7FFFD4;
+    --cartao-frente: #66CDAA;
+    --cartao-verso: #20B2AA;
+    --destaque: #800000;
+    --preto: #000000;
+    --branco: #ffffff;
 }
 
-body{
+body {
     background-color: var(--fundo);
-
+    margin: 0;
 }
 
-footer{
+footer {
 
-background-color: var(--preto);
-position: fixed;
-bottom: 0;
-color: var(--branco);
-width: 100%;
-text-align: center;
+    background-color: var(--preto);
+    position: fixed;
+    bottom: 0;
+    color: var(--branco);
+    width: 100%;
+    text-align: center;
 }
