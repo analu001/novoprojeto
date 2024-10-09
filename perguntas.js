@@ -107,9 +107,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Inglês',
-    'O que está errado na frase "He were doing the exercises"?',
-    '"Were"'
+    'Química',
+    'Qual é a distribuição eletrônica do Carbono.?',
+    'K=2, L=4'
 )
 
 criaCartao(
