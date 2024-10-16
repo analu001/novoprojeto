@@ -1,6 +1,6 @@
 :root {
-    --fundo: #e424aa;
-    --cartao-frente: #e254be;
+    --fundo: #e254be;
+    --cartao-frente: #e424aa;
     --cartao-verso: #e278b8;
     --destaque: #53ec3b;
     --preto: #000000;
@@ -40,4 +40,6 @@ footer {
 
 .conteudo-cartao{
     background-color: var(--cartao-frente);
+    height: 100%;
+    text-align: center;
 }
