@@ -102,7 +102,7 @@ criaCartao(
 
 criaCartao(
     'Inglês',
-    ' O que significa "I wonder"?',
+    ' Qual a tradução de "I wonder"?',
     'Eu gostaria'
 )
 
