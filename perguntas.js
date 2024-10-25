@@ -49,7 +49,7 @@ criaCartao(
 criaCartao(
     'História',
     'Quem descobriu o Brasil?',
-    'Cristovão Colombo'
+    'Pedro Álvares Cabral'
 )
 
 criaCartao(
