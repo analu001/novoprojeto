@@ -18,6 +18,11 @@ header{
     justify-content: space-around;
     padding: 2rem
 }
+header  a {
+    color: var(--branco);
+    text-decoration: none;
+
+}
 footer {
 
     background-color: var(--preto);
