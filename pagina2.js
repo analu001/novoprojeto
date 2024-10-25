@@ -1,5 +1,5 @@
-function criaCartao (categoria, pergunta, resposta){
-    let container = document.getElementById ('container');
+function criaCartao(categoria, pergunta, resposta) {
+    let container = document.getElementById('container');
     let cartao = document.createElement('article');
     cartao.className = 'cartao'
     cartao.innerHTML = `
@@ -14,4 +14,9 @@ function criaCartao (categoria, pergunta, resposta){
     </div>
     `
     container.appendChild(cartao);
-    }
+}
+
+function mostrarResposta(card){
+    const resposta = card.querySelector('.resposta-cartao');
+}
+
