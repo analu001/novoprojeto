@@ -18,6 +18,10 @@ header{
     justify-content: space-around;
     padding: 2rem
 }
+header a {
+    color: var(--branco);
+    text-decoration: none;
+}
 footer {
 
     background-color: var(--preto);
@@ -26,4 +30,19 @@ footer {
     color: var(--branco);
     width: 100%;
     text-align: center;
+}
+
+#container{
+    display: grid;
+    gap: 3rem;
+    padding: 4rem;
+}
+
+
+.cartao{
+    background-color: var(--cartao-frente);
+    padding: 40px;
+    border: 1px solid var(--destaque);
+    box-shadow: 5px 5px 20px 5px var (--preto);
+
 }
